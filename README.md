@@ -34,12 +34,27 @@ The MOD integrates naturally with existing container mechanics.
 
 ## 🔗 Repository
 
-* GitHub: [https://github.com/yaim0425/YAIM0425-d22b-inventory-filter](https://github.com/yaim0425/YAIM0425-d22b-inventory-filter)
+**MOD**
+[YAIM0425 d22b Inventory filter](https://github.com/yaim0425/YAIM0425-d22b-inventory-filter)
+
+**Required**
+
+[YAIM0425 d00b Core](https://github.com/yaim0425/YAIM0425-d00b-core)
+
+---
+
+## ❤️ Support
+
+Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 
 ---
 
 ## 🖼️ Screenshots
 
-![Inventory Filter Screenshot 1](screenshot/\(1\).png)
+![Screenshot 1](https://github.com/yaim0425/YAIM0425-d22b-inventory-filter/raw/code/screenshot/(1).png)
 
----
+![Screenshot 2](https://github.com/yaim0425/YAIM0425-d22b-inventory-filter/raw/code/screenshot/(2).png)
+
+![Screenshot 3](https://github.com/yaim0425/YAIM0425-d22b-inventory-filter/raw/code/screenshot/(3).png)
+
+![Screenshot 4](https://github.com/yaim0425/YAIM0425-d22b-inventory-filter/raw/code/screenshot/(4).png)
