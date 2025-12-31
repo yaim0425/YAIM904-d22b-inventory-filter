@@ -1,8 +1,8 @@
-# YAIM0425 d22b – Inventory Filter 🧺🔍
+# YAIM904 d22b – Inventory Filter 🧺🔍
 
 ## 📦 Description
 
-**YAIM0425 d22b – Inventory Filter** allows players to **create filters directly in container inventory slots**.
+**YAIM904 d22b – Inventory Filter** allows players to **create filters directly in container inventory slots**.
 
 This MOD gives finer control over item organization by letting containers accept only specific items in selected slots, helping to keep inventories clean, ordered, and predictable.
 
@@ -35,11 +35,11 @@ The MOD integrates naturally with existing container mechanics.
 ## 🔗 Repository
 
 **MOD**
-[YAIM0425 d22b Inventory filter](https://github.com/yaim0425/YAIM0425-d22b-inventory-filter)
+[YAIM904 d22b Inventory filter](https://github.com/yaim0425/YAIM904-d22b-inventory-filter)
 
 **Required**
 
-[YAIM0425 d00b Core](https://github.com/yaim0425/YAIM0425-d00b-core)
+[YAIM904 d00b Core](https://github.com/yaim0425/YAIM904-d00b-core)
 
 ---
 
@@ -51,10 +51,10 @@ Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](https://github.com/yaim0425/YAIM0425-d22b-inventory-filter/raw/code/screenshot/(1).png)
+![Screenshot 1](https://github.com/yaim0425/YAIM904-d22b-inventory-filter/raw/code/screenshot/(1).png)
 
-![Screenshot 2](https://github.com/yaim0425/YAIM0425-d22b-inventory-filter/raw/code/screenshot/(2).png)
+![Screenshot 2](https://github.com/yaim0425/YAIM904-d22b-inventory-filter/raw/code/screenshot/(2).png)
 
-![Screenshot 3](https://github.com/yaim0425/YAIM0425-d22b-inventory-filter/raw/code/screenshot/(3).png)
+![Screenshot 3](https://github.com/yaim0425/YAIM904-d22b-inventory-filter/raw/code/screenshot/(3).png)
 
-![Screenshot 4](https://github.com/yaim0425/YAIM0425-d22b-inventory-filter/raw/code/screenshot/(4).png)
+![Screenshot 4](https://github.com/yaim0425/YAIM904-d22b-inventory-filter/raw/code/screenshot/(4).png)
