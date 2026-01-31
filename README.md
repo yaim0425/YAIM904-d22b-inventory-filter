@@ -1,12 +1,14 @@
 # YAIM904 d22b – Inventory Filter 🧺🔍
 
+---
+
 ## 📦 Description
 
 **YAIM904 d22b – Inventory Filter** allows players to **create filters directly in container inventory slots**.
 
-This MOD gives finer control over item organization by letting containers accept only specific items in selected slots, helping to keep inventories clean, ordered, and predictable.
+This MOD gives finer control over item organization by letting containers accept only specific items in selected slots, helping to keep inventories clean, ordered and predictable.
 
-It is especially useful for logistics systems, automated factories, and complex storage setups.
+It is especially useful for logistics systems, automated factories and complex storage setups.
 
 ---
 
@@ -45,7 +47,7 @@ The MOD integrates naturally with existing container mechanics.
 
 ## ❤️ Support
 
-Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
+Suggestions, ideas and balance feedback are welcome on the GitHub repository.
 
 ---
 
