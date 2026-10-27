@@ -1,12 +1,12 @@
-{
-  "name": "YAIM904-d22b-inventory-filter",
-  "version": "0.0.2",
-  "title": "YAIM904 d22b Inventory filter",
-  "author": "YAIM904",
-  "factorio_version": "2.0",
-  "description": "Allows the creation of filters in the slots of the containers. [[I accept suggestions]]",
-  "homepage": "https://github.com/yaim0425/YAIM904-d22b-inventory-filter",
-  "dependencies": [
-    "YAIM904-d00b-core"
-  ]
+﻿{
+    "name":  "YAIM904-d22b-inventory-filter",
+    "version":  "0.0.2",
+    "title":  "YAIM904 d22b Inventory filter",
+    "author":  "YAIM904",
+    "factorio_version":  "2.1",
+    "description":  "Allows the creation of filters in the slots of the containers. [[I accept suggestions]]",
+    "homepage":  "https://github.com/yaim0425/YAIM904-d22b-inventory-filter",
+    "dependencies":  [
+        "YAIM904-d00b-core"
+    ]
 }
